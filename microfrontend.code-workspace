@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "container"
+		},
+		{
+			"path": "header"
+		},
+		{
+			"path": "main"
+		},
+		{
+			"path": "screens"
+		},
+		{
+			"path": "react"
+		}
+	]
+}
